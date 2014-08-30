@@ -9,3 +9,12 @@ You dont need to minimise it. Just head over to the site and open the developer 
 
 ###  The sites?
 
+[downtown](http://www.downtown.co.uk/on-air/station-schedule/)
+[Setanta](http://www.setanta.com/ie/listings/index.html)
+[talkSPORT](http://talksport.com/radio/schedule)
+[citybeat](http://citybeat.co.uk/schedule/)
+[CLASSICfM](http://www.classicfm.com/radio/schedule/)
+
+### How Do i make my own grabber?
+
+This bit is coming up soon.
