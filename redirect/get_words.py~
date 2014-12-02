@@ -7,5 +7,3 @@ FOUR_LETTER_WORDS = filter( lambda x: len(x)==4 , WORDS )
 FIVE_LETTER_WORDS = filter( lambda x: len(x)==5 , WORDS )
 print len( FOUR_LETTER_WORDS ) 
 print len( FIVE_LETTER_WORDS )
-
-## lets see if this works
